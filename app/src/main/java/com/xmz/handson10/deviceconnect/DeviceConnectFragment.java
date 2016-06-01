@@ -164,6 +164,7 @@ public class DeviceConnectFragment extends Fragment implements DeviceConnectCont
                     layoutParams.bottomMargin = 0;
                     v.setLayoutParams(layoutParams);
                     break;
+
             }
             mCntentLL.invalidate();
             return true;
